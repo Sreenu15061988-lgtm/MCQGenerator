@@ -1,2 +1,2 @@
-# mcqgen
-mcqgen
+# MCQGenerator
+MCQGenerator
